@@ -1,4 +1,4 @@
-[Go to Projects] (../../)
+[Go to Projects] (../../README.md)
 
 # Slim Practices
 
