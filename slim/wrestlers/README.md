@@ -2,7 +2,7 @@
 
 Hello!, thank you for to visit this project.
 
-This project consists in a CRUD practice on using RESTful API with "Slim Framework" .
+This project consists in a **CRUD** practice on using RESTful API with **"Slim Framework"** .
 
 Feel free to view the source code and I'm open to advice, improvements, and other things that can make me.
 
