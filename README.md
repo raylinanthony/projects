@@ -4,5 +4,6 @@ Projects in which I worked, tools and practices. More about me: [raylinaquino.co
 
 ## You'd see some of my projects and practices?
 
-+ [Slim frameowrk CRUD!](slim/README.md)
+### Slim Framework
++ [Employees CRUD!] (slim/wrestlers/README.md)
     
